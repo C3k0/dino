@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,test.m3u8
+test.m3u8
+#EXTINF:0,test-2.m3u8
+test-2.m3u8
