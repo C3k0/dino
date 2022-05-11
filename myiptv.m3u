@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1youtube
+#EXTINF:1,youtube
 https://raw.githubusercontent.com/C3k0/test/main/youtube.m3u8
 #EXTINF:2,btv
 https://vd1.bweb.bg/hls/2110383625.m3u8?bt=Yv7OfrZNUG5TivZd8LSvZg&ex=1652305373
