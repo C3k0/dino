@@ -8,13 +8,5 @@
     <item>
       <title>RSS-реално лесно</title>
     </item>
-    <item>
-      <title>new video</title>
-      <embed><iframe src="https://www.youtube.com/embed/VM4AVwFdQvM" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></embed>
-    </item>
-    <item>
-      <title>test</title>
-      <div><iframe src="https://www.youtube.com/embed/VM4AVwFdQvM" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
-    </item>
   </channel>
 </rss>
