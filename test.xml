@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-  <title>Sty hacking lab</title>
-  <description>The best hack tip</description>
-  <item>
-    <title>RSS Tutorial</title>
-    <description>test<div>test</div></description>
-  <item>
-    <title>Youtube rss</title>
-  </item>
-</channel>
+  <channel>
+    <title>Sty hacking lab</title>
+        <title>Youtube embed</title>
+        <embed><iframe width="647" height="364" src="https://www.youtube.com/embed/2yXSQ1BmZFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></embed>
+      </item>
+  </channel>
 </rss>
