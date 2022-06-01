@@ -9,7 +9,6 @@
     <description>test<div>test</div></description>
   <item>
     <title>Youtube rss</title>
-    <iframe width="647" height="364" src="https://www.youtube.com/embed/2yXSQ1BmZFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </item>
 </channel>
 
