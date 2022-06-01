@@ -7,7 +7,7 @@
     </image>
     <item>
       <title>new video</title>
-      <embed><iframe width="560" height="315" src="https://www.youtube.com/embed/oYC8KkNIkZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;</embed>
+      <embed><iframe width="647" height="364" src="https://www.youtube.com/embed/aXVr_zZqGKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></embed>
     </item>
   </channel>
 </rss>
