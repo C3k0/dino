@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My IPTV</title>
+  <link rel="stylesheet" href="style.css"/>
+  <script src="path/to/video.js"></script>
+</head>
+<body>
+  <div id="my-player"></div>
+  <script>
+  var player = videojs('my-player');
+  player.src({
+  src: 'your stream url',
+  type: 'application/x-mpegURL'
+});
+  </script>
+</body>
+</html>
